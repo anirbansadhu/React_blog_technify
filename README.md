@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#some screenshots
+![FireShot Capture 002 - Technify -  technifyweb netlify app](https://github.com/user-attachments/assets/a4acce5d-e1a8-4976-ab06-36dd69f177f2)
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:

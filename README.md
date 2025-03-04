@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #some screenshots
 ![FireShot Capture 002 - Technify -  technifyweb netlify app](https://github.com/user-attachments/assets/a4acce5d-e1a8-4976-ab06-36dd69f177f2)
 
-![FireShot Capture 004 - Technify -  technifyweb netlify app](https://github.com/user-attachments/assets/12a42661-2eb2-45e5-9529-035cde49fe0f)
 ![FireShot Capture 005 - Technify -  technifyweb netlify app](https://github.com/user-attachments/assets/c088d88e-1e9d-4a57-9b08-dab40e8cc1c9)
 ![FireShot Capture 003 - Technify -  technifyweb netlify app](https://github.com/user-attachments/assets/fcde884b-0508-4060-8f47-d0b3beed8229)
+![FireShot Capture 004 - Technify -  technifyweb netlify app](https://github.com/user-attachments/assets/12a42661-2eb2-45e5-9529-035cde49fe0f)
 
 
 
